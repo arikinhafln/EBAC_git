@@ -14,6 +14,6 @@ Este repositório contém dois exemplos de calculadora:
    chmod +x calculadora.sh
 
    
-./calculadora.sh
+2 ./calculadora.sh
 
-python3 calculadora.py
+3. python3 calculadora.py

@@ -17,3 +17,10 @@ Este repositório contém dois exemplos de calculadora:
 2 ./calculadora.sh
 
 3. python3 calculadora.py
+
+
+O arquivo calculadora.py implementa uma calculadora simples que:
+Solicita ao usuário dois números e um operador matemático (+, -, *, /).
+Realiza a operação correspondente.
+Exibe o resultado na tela.
+Trata casos como operador inválido e divisão por zero.
